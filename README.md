@@ -1,4 +1,4 @@
-### 👋 Olá, mundo
+### 👋 Olá, 
 Sou aprendiz em análise de dados👨‍💻. Com o objetivo de facilitar a vida e a comunicação das pessoas.
 
 
