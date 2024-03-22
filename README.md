@@ -2,17 +2,21 @@
 
 Amo desvendar os segredos dos dados e transformá-los em insights úteis! 👩‍💻
 
-- 🔭 Atualmente, me aventurando no Python e SQL.
+- 🔭 Atualmente, me aventurando em Python e SQL.
 - ⚡ Sempre aprendendo mais sobre análise de dados e o mundo.
 
 <hr />
 
 ### Ferramentas Técnicas: 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Power BI](https://img.shields.io/badge/-Power%20BI-555555?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=flat-square&logo=powerbi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-000000?style=flat-square&logo=azure-devops&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code)
+![Databricks](https://img.shields.io/badge/-Databricks-000000?style=flat-square&logo=databricks&logoColor=white)
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-000000?style=flat-square&logoColor=white)
 
 <hr />
 
