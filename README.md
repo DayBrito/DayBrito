@@ -2,7 +2,6 @@
 
 Amo desvendar os segredos dos dados e transformá-los em insights úteis! 👩‍💻
 
-
 - 🔭 Atualmente, me aventurando no Python e SQL.
 - ⚡ Sempre aprendendo mais sobre análise de dados e o mundo.
 
@@ -21,7 +20,4 @@ Amo desvendar os segredos dos dados e transformá-los em insights úteis! 👩�
 - Impulsionada pela curiosidade, estou sempre buscando novos insights e aprendendo mais sobre análise de dados e tecnologia.
 - Graduando em Relações Internacionais e Estudos Estratégicos
 
-<hr />
-
 #### 📫 Fale comigo no [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dayane-brito-15a238204/) e vamos conectar nossas ideias!
-
