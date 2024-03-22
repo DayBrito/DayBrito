@@ -1,10 +1,9 @@
 ### 👋 Olá, 
-Sou aprendiz em análise de dados👨‍💻. Com o objetivo de facilitar a vida e a comunicação das pessoas.
+Analista de dados👨‍💻. Com o objetivo de facilitar a vida e a comunicação das pessoas.
 
 
-- 🔭 Atualmente codando em Python e SQL.
+- 🔭 Python e SQL.
 - ⚡ Estudando análise de dados e relações internacionais.
-- 💬 Fascinada por artes, principalmente cinema.
 
 <hr />
 
@@ -15,8 +14,6 @@ Sou aprendiz em análise de dados👨‍💻. Com o objetivo de facilitar a vida
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/DayBrito/count.svg" />
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dayane-brito-15a238204/)
