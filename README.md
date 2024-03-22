@@ -15,9 +15,10 @@ Amo desvendar os segredos dos dados e transformá-los em insights úteis! 👩�
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
+<hr />
 
-📊 Analytics & Beyond:
-Impulsionada pela curiosidade, estou sempre buscando novos insights e aprendendo mais sobre análise de dados e tecnologia.
+### 📊 Analytics & Beyond:
+-Impulsionada pela curiosidade, estou sempre buscando novos insights e aprendendo mais sobre análise de dados e tecnologia.
 
 
 ### 📫 Fale comigo no
